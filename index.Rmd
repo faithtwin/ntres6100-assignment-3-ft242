@@ -1,0 +1,18 @@
+---
+title: "index"
+author: "Faith Twinamaani"
+date: "2024-09-19"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Website 
+
+My name is Faith and this is the link to my Github account: https://github.com/faithtwin 
+
+My collaborator is Petra and this is the link to Petra's Github account: https://github.com/petra-h11
+
+![We cannot wait for fall.](https://rhythmsofplay.com/wp-content/uploads/2023/10/Signs-of-Fall-Autumn-Scavenger-Hunt-fbpin-600.jpg)
