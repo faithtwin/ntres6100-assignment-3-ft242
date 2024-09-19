@@ -1,0 +1,18 @@
+---
+title: "faith"
+author: "Faith Twinamaani"
+date: "2024-09-19"
+output: html_document
+---
+
+
+
+## Faith
+
+* I am a horticulture student.
+
+* I love to crochet and have a very impressive yarn collection.
+
+* My favorite insect is bees.
+
+* My favorite plant that I have worked in is blueberry plants.
