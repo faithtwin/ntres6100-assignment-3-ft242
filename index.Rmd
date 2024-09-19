@@ -1,7 +1,4 @@
 ---
-title: "index"
-author: "Faith Twinamaani"
-date: "2024-09-19"
 output: html_document
 ---
 
